@@ -32,7 +32,9 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+  list-style: disc;
+  list-style-position: outside;
+  margin-left: 40px;
 }
 blockquote, q {
 	quotes: none;
@@ -71,10 +73,12 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 90%;
+	font-size: 100%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+  font-weight: 700;
+  margin-right: 0.5em;
+	color: #999;
 }
 
 p code {
@@ -87,7 +91,7 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
+	width: 55%;
 	margin-bottom: 1.5em;
 	margin-top: -0.5em;
 }
@@ -187,6 +191,9 @@ strong {
 	display: none;
 }
 
+hr {
+  margin-top: 10em;
+}
 
 
 /*

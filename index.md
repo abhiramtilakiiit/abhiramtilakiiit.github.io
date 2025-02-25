@@ -1,91 +1,100 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Abhiram Tilak's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Abhiram Tilak
+
+Undergraduate, Computer Science Major, Minor in Natural Sciences, IIIT
+Hyderabad
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:abhiram.potula@research.iiit.ac.in">abhiram@research.iiit.ac.in</a> |
+<a href="https://github.com/abhiramtilakiiit">GitHub</a> |
+<a href="https://life.iiit.ac.in/profile/abhiram.potula">Student Life Page</a>
 </div>
 
+## Profile
 
-## Currently
+Junior year at [IIIT-H](https://www.iiit.ac.in/), Researcher at
+[CCNSB](https://ccnsb.iiit.ac.in/CCNSB/).
 
-Standing on the shoulders of giants
+Specialized in Machine Learning for High-Energy Physics and Particle
+Physics.
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Research interests include High-Energy Physics Phenomenology, Machine
+Learning in Natural Sciences, and Quantum Information Theory.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022 - Present` **IIIT Hyderabad**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
+-   Undergraduate Student, Computer Science & Natural Sciences
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+**Conference Submissions**  
+`2024 - 2025`
 
-### Journals
+-   [`HEP-JEPA:`](https://arxiv.org/abs/2502.03933) A foundation model
+    for collider physics using Joint Embedding Predictive Architecture.
+    (Under review, submitted to ICML 2025 )
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Work Experience
 
-`1669`
-Lectiones opticæ.
+`2024 - 2025` **IT Office, IIIT Hyderabad**
 
-etc. etc. etc.
+-   Instituite Student Web Administrator
 
-### Patents
+`Summer 2024` **Libvirt**
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+-   [Google Summer of Code 2024
+    Contributor](https://summerofcode.withgoogle.com/archive/2024/projects/xUsYfZuv)
 
+## Projects
 
-## Occupation
+`2024`
 
-`1600`
-__Royal Mint__, London
+-   **Operating Systems and Networks**
+    -   [`BISH:`](https://gitlab.com/edupua/bish) Custom shell in C with
+        standard shell functionalities.
+    -   [`Enhanced-xv6:`](https://gitlab.com/edupua/xv6) Enhancements
+        and algorithm implementations for [MIT’s
+        xv6](https://pdos.csail.mit.edu/6.1810/2024/xv6.html).
+    -   [`NFS:`](https://github.com/OSN-UG2k22/NFS) Custom Network
+        Storage Interface (group project, 4 contributors).
+-   **Advanced Computer Architecture**
+    -   [`Scoreboarding & Register Renaming:`](https://github.com/ACA-ug2k22/)
+        Forked Flute to implement Scoreboarding and Register Renaming.
+-   **Campus Apps & Portals**
+    -   [`My-IIITH App:`](https://github.com/IMS-IIITH) Android app for
+        campus services (attendance, transcripts, notifications,
+        timetable, mess registrations, etc.).
+    -   [`Life Portal/Website:`](https://github.com/Clubs-Council-IIITH)
+        Core maintainer of student management web portal for budget
+        approvals, room booking, and student body management.
 
-- Warden
-- Minted coins
+<br>
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2023`
 
+-   [`City Management Database System:`](https://github.com/DNA-5/city-management-database)
+    Database system for city management (5-member project).
+-   [`Psyche-Screener:`](https://github.com/PraneethJain/pentagon-megathon)
+    AI-based interview screening tool (2nd place,
+    [Megathon](https://megathon.in/)).
+-   [`Comfyline Prompt:`](https://gitlab.com/imnotpua/comfyline_prompt)
+    Customizable ZSH prompt (listed in [Oh My Zsh
+    Wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/themes)).
 
+## Roles & Leadership
 
-<!-- ### Footer
+`2024 - Present` System Administrator, **SLC-Tech Team**
 
-Last updated: May 2013 -->
+`2023 - 2024` News & Content Writer, **Hacking Club (1337x)**
 
+`2022 - 2024` Coordinator, **Open Source Development Group (OSDG)**
 
+------------------------------------------------------------------------
+
+*Last updated: January 2025*
