@@ -53,6 +53,10 @@ Learning in Natural Sciences, and Quantum Information Theory.
 
 ## Projects
 
+<br>
+
+### Coursework
+
 `2024`
 
 -   **Operating Systems and Networks**
@@ -66,26 +70,36 @@ Learning in Natural Sciences, and Quantum Information Theory.
 -   **Advanced Computer Architecture**
     -   [`Scoreboarding & Register Renaming:`](https://github.com/ACA-ug2k22/)
         Forked Flute to implement Scoreboarding and Register Renaming.
--   **Campus Apps & Portals**
-    -   [`My-IIITH App:`](https://github.com/IMS-IIITH) Android app for
-        campus services (attendance, transcripts, notifications,
-        timetable, mess registrations, etc.).
-    -   [`Life Portal/Website:`](https://github.com/Clubs-Council-IIITH)
-        Core maintainer of student management web portal for budget
-        approvals, room booking, and student body management.
-
-<br>
 
 `2023`
 
--   [`City Management Database System:`](https://github.com/DNA-5/city-management-database)
-    Database system for city management (5-member project).
--   [`Psyche-Screener:`](https://github.com/PraneethJain/pentagon-megathon)
-    AI-based interview screening tool (2nd place,
-    [Megathon](https://megathon.in/)).
--   [`Comfyline Prompt:`](https://gitlab.com/imnotpua/comfyline_prompt)
-    Customizable ZSH prompt (listed in [Oh My Zsh
-    Wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/themes)).
+-   **Data and Application**
+    -   [`City Management Database System:`](https://github.com/DNA-5/city-management-database)
+        Database system for city management (5-member project).
+
+### Campus Apps and Portals
+
+`2024-2025`
+
+-   [`My-IIITH App:`](https://github.com/IMS-IIITH) Android app for
+    campus services (attendance, transcripts, notifications, timetable,
+    mess registrations, etc.).
+-   [`Life Portal/Website:`](https://github.com/Clubs-Council-IIITH)
+    Core maintainer of student management web portal for budget
+    approvals, room booking, and student body management.
+
+### Other Projects
+
+`2023`
+
+-   **Hackathons and events**
+    -   [`Psyche-Screener:`](https://github.com/PraneethJain/pentagon-megathon)
+        AI-based interview screening tool (2nd place,
+        [Megathon](https://megathon.in/)).
+-   **Personal Projects**
+    -   [`Comfyline Prompt:`](https://gitlab.com/imnotpua/comfyline_prompt)
+        Customizable ZSH prompt (listed in [Oh My Zsh
+        Wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/themes)).
 
 ## Roles & Leadership
 
