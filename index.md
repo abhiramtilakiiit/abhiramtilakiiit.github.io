@@ -51,9 +51,22 @@ Learning in Natural Sciences, and Quantum Information Theory.
 -   [Google Summer of Code 2024
     Contributor](https://summerofcode.withgoogle.com/archive/2024/projects/xUsYfZuv)
 
-## Projects
+## **Projects:**
 
 <br>
+
+### Campus Apps and Portals
+
+`2024-2025`
+
+-   [`My-IIITH App:`](https://github.com/IMS-IIITH) Android app for
+    campus services (attendance, transcripts, notifications, timetable,
+    mess registrations, etc.). I am one of the 4 original maintainers of
+    this project, and is currently used by a large proportion of
+    students in campus.
+-   [`Life Portal/Website:`](https://github.com/Clubs-Council-IIITH)
+    Core maintainer of student management web portal for budget
+    approvals, room booking, and student body management.
 
 ### Coursework
 
@@ -76,18 +89,6 @@ Learning in Natural Sciences, and Quantum Information Theory.
 -   **Data and Application**
     -   [`City Management Database System:`](https://github.com/DNA-5/city-management-database)
         Database system for city management (5-member project).
-
-### Campus Apps and Portals
-
-`2024-2025`
-
--   [`My-IIITH App:`](https://github.com/IMS-IIITH) Android app for
-    campus services (attendance, transcripts, notifications, timetable,
-    mess registrations, etc.). I am one of the 4 original maintainers of this project,
-    and is currently used by a large proportion of students in campus. 
--   [`Life Portal/Website:`](https://github.com/Clubs-Council-IIITH)
-    Core maintainer of student management web portal for budget
-    approvals, room booking, and student body management.
 
 ### Other Projects
 
