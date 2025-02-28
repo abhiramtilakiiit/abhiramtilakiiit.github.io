@@ -83,7 +83,8 @@ Learning in Natural Sciences, and Quantum Information Theory.
 
 -   [`My-IIITH App:`](https://github.com/IMS-IIITH) Android app for
     campus services (attendance, transcripts, notifications, timetable,
-    mess registrations, etc.).
+    mess registrations, etc.). I am one of the 4 original maintainers of this project,
+    and is currently used by a large proportion of students in campus. 
 -   [`Life Portal/Website:`](https://github.com/Clubs-Council-IIITH)
     Core maintainer of student management web portal for budget
     approvals, room booking, and student body management.
