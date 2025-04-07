@@ -46,6 +46,11 @@ Learning in Natural Sciences, and Quantum Information Theory.
 
 -   Instituite Student Web Administrator
 
+`October - November 2024` **Women In Silicon Hardware (WISH),
+Talentsprint**
+
+-   Mentor for course Introduction to linux and scripting tools.
+
 `Summer 2024` **Libvirt**
 
 -   [Google Summer of Code 2024
